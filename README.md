@@ -1,2 +1,2 @@
-# topic-modeling-kassel
-Folien "Topic Modeling" (Kassel, Januar 2017)
+# topic-modeling-vorlesung
+Topic Modeling: Vorlesung
